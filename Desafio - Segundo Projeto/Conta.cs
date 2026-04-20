@@ -1,8 +1,16 @@
 ﻿class Titular
 {
     public string Nome { get; set; }
-    public int CPF { get; set; }
+    public double CPF { get; set; }
     public string Endereco { get; set; }
+
+    public void ExibirInformacoes()
+    {
+        Console.WriteLine("Informações do Titular:");
+        Console.WriteLine($"\nNome: {Nome}");
+        Console.WriteLine($"CPF: {CPF}");
+        Console.WriteLine($"Endereco: {Endereco}");
+    }
 }
 
 class Conta
@@ -15,7 +23,10 @@ class Conta
     public int Senha { get; set; }
 
     public string Informacoes => $"Conta nº {IdConta}, Agência {Agencia}, Titular: {Titular} - Saldo: {Saldo}";
+
 }
+
+
 
     
 

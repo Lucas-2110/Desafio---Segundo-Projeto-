@@ -12,3 +12,18 @@ C:\Users\lucas\Downloads\Projetos\Desafio - Segundo Projeto\Desafio - Segundo Pr
 C:\Users\lucas\Downloads\Projetos\Desafio - Segundo Projeto\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.pdb
 C:\Users\lucas\Downloads\Projetos\Desafio - Segundo Projeto\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.genruntimeconfig.cache
 C:\Users\lucas\Downloads\Projetos\Desafio - Segundo Projeto\Desafio - Segundo Projeto\obj\Debug\net10.0\ref\Desafio - Segundo Projeto.dll
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\bin\Debug\net10.0\Desafio - Segundo Projeto.exe
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\bin\Debug\net10.0\Desafio - Segundo Projeto.deps.json
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\bin\Debug\net10.0\Desafio - Segundo Projeto.runtimeconfig.json
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\bin\Debug\net10.0\Desafio - Segundo Projeto.dll
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\bin\Debug\net10.0\Desafio - Segundo Projeto.pdb
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.AssemblyInfoInputs.cache
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.AssemblyInfo.cs
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.sourcelink.json
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.dll
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\refint\Desafio - Segundo Projeto.dll
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.pdb
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\Desafio - Segundo Projeto.genruntimeconfig.cache
+C:\Users\lucas.oliveira\OneDrive - Mttechne\Área de Trabalho\Projetos\Desafio - Segundo Projeto\Desafio---Segundo-Projeto-\Desafio - Segundo Projeto\obj\Debug\net10.0\ref\Desafio - Segundo Projeto.dll
