@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio - Segundo Projeto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b00a0cf5e2031f18d35398fb05720890363ac94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ddf985f576627689a955ac62449ba188fe9dfd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio - Segundo Projeto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio - Segundo Projeto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

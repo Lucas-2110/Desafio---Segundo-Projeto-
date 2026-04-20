@@ -1,13 +1,20 @@
 ﻿class Titular
 {
-    public string Nome { get; set; }
-    public double CPF { get; set; }
-    public string Endereco { get; set; }
+    public Titular(string nome, double cpf, string endereco)
+    {
+        Nome = nome;
+        CPF = cpf;
+        Endereco = endereco;
+    }
+
+    public string Nome { get; }
+    public double CPF { get; }
+    public string Endereco { get; }
 
     public void ExibirInformacoes()
     {
         Console.WriteLine("Informações do Titular:");
-        Console.WriteLine($"\nNome: {Nome}");
+        Console.WriteLine($"Nome: {Nome}");
         Console.WriteLine($"CPF: {CPF}");
         Console.WriteLine($"Endereco: {Endereco}");
     }
@@ -15,15 +22,32 @@
 
 class Conta
 {
-    public int IdConta { get; set; }
-    public int Agencia { get; set; }
-    public string Titular { get; set; }
-    public double Saldo { get; set; }
-    public double Limite { get; set; }
-    public int Senha { get; set; }
+    public Conta(int idconta, int agencia, string nometitular, double saldo, double limite, int senha)
+    {
+        IdConta = idconta;
+        Agencia = agencia;
+        NomeTitular = nometitular;
+        Saldo = saldo;
+        Limite = limite;
+        Senha = senha;
+    }
 
-    public string Informacoes => $"Conta nº {IdConta}, Agência {Agencia}, Titular: {Titular} - Saldo: {Saldo}";
+    public int IdConta { get; }
+    public int Agencia { get; }
+    public string NomeTitular { get; }
+    public double Saldo { get; }
+    public double Limite { get; }
+    public int Senha { get; }
 
+    public void InformacoesConta()
+    {
+        Console.WriteLine("\nInformações da Conta:");
+        Console.WriteLine($"Id da Conta: {IdConta}");
+        Console.WriteLine($"Agência: {Agencia}");
+        Console.WriteLine($"Saldo: {Saldo}");
+        Console.WriteLine($"Limite: {Limite}");
+        Console.WriteLine($"Senha: {Senha}");
+    }
 }
 
 
